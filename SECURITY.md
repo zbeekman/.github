@@ -2,7 +2,9 @@
 
 ## Supported Versions
 
-Use this software at your own risk!
+Use this software at your own risk! Any *stable* release of this software should be "supported",
+i.e., a non-release candidate with a major version greater than or equal to `v1`.
+(We would still like to hear about vulnerabilities in unsupported software, however.)
 
 ## Reporting a Vulnerability
 
@@ -24,4 +26,7 @@ met:
   ## Changes to this Security Policy
 
   Changes made to this security policy will take effect *no sooner than* __50 days__ after
-  publication on the master branch of this repository.
+  publication on the [master branch of this repository].
+
+
+[master branch of this repository]: ../../tree/master/
