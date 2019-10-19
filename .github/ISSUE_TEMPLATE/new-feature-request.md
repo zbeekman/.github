@@ -2,7 +2,7 @@
 name: "\U0001F680  New Feature Request"
 about: "Request a new feature or new functionality in this project"
 title: "[RFE]:"
-labels: 'enhancement, new'
+labels: new, enhancement
 assignees: ''
 
 ---

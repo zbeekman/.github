@@ -2,7 +2,7 @@
 name: "Questions and Support Requests"
 about: "\U0001F914 Issue template to use for general questions and support request that are not bugs or feature requests."
 title: '[Question]:'
-labels: 'question, new'
+labels: new, question
 assignees: ''
 
 ---
