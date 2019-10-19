@@ -4,4 +4,4 @@ Please fill out one of the templates available [here].
 
 Failure to fill out an issue template may result in immediate issue closure and deletion. Thanks!
 
-[here]: ../new/choose
+[here]: ../issues/new/choose
