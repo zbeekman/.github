@@ -2,7 +2,7 @@
 name: "\U0001F41B Reproducible Bug Report"
 about: "File a bug report so we can fix it"
 title: '[BUG]:'
-labels: 'bug', 'unconfirmed', 'new'
+labels: bug, unconfirmed, new
 assignees: ''
 
 ---
