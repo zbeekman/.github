@@ -31,8 +31,8 @@ To contribute, please follow these steps:
 
 1. [Fork the repository]
 2. Clone your fork and create a new topic/feature/bugfix branch to work from. If your
-   contributions are rleated to [an issue], please include `issue-<num>` in the branch
-   name, where `<num>` is the issue number.
+   contributions are rleated to [an open issue], please include `issue-<num>` in the
+   branch name, where `<num>` is the issue number.
 3. Please use descriptive commit messages. The first line should be less than or equal
    to 50 characters in length, start with a capitalized imperitive verb and not end in
    a period. Subsequent lines should be separated by a single blank line from the high
@@ -51,6 +51,7 @@ To contribute, please follow these steps:
    project.
 
 [Code of conduct]: ../master/CODE_OF_CONDUCT.md
+[an open issue]: ../../issues?q=is%3Aissue+is%3Aopen
 [new issue]: ../../issues/new/choose
 [open a pull request]: ../../compare
 [Fork the repository]: ../../fork
